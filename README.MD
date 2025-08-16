@@ -1,4 +1,8 @@
-
+<p align="center">
+  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">junarplaysmc</title>
+    <desc id="desc">cool readme fr</desc>
+    <defs>
       <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#06b6d4"/>
         <stop offset="100%" stop-color="#22c55e"/>
